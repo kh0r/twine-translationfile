@@ -1,0 +1,4 @@
+[[Uncategorized]]
+	[hello_world]
+		en = Hello World
+		comment = The default greeting for developers
